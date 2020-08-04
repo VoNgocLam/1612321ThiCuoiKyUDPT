@@ -38,9 +38,9 @@ Sinh viên thực hiện:
        - [x] Thông tin thí sinh và điểm thi
 - [x] Hệ thống 2: Website tra cứu điểm thi cho tất cả các cụm thi (Ngôn ngữ lập trình: PHP)
    - [x] Xem danh sách các cụm thi
-          - [x] Cho phép tìm kiếm trên mã cụm thi và tên cụm thi
-          - [x] Cho phép thêm cụm thi mới
-          - [x] Cho phép chỉnh sửa cụm thi
+        - [x] Cho phép tìm kiếm trên mã cụm thi và tên cụm thi
+        - [x] Cho phép thêm cụm thi mới
+        - [x] Cho phép chỉnh sửa cụm thi
     - [x] Tra cứu điểm thí sinh theo từng cụm thi    
-          - [x] Cho phép nhập từ khóa tìm kiếm, chọn cụm thi
-          - [x] Hiển thị danh sách thông tin thí sinh và tổng điểm của thí sinh (bằng cách gọi API 1.1) 
+         - [x] Cho phép nhập từ khóa tìm kiếm, chọn cụm thi
+         - [x] Hiển thị danh sách thông tin thí sinh và tổng điểm của thí sinh (bằng cách gọi API 1.1) 

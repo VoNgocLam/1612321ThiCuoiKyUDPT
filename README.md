@@ -1,6 +1,6 @@
 # BÁO CÁO ĐỀ THI CUỐI KỲ MÔN SEMINAR MẠNG MÁY TÍNH
-Sinh viên thực hiện: Võ Ngọc Lâm
-Mã số sinh viên: 1612321
+- Sinh viên thực hiện: Võ Ngọc Lâm
+- Mã số sinh viên: 1612321
 
 ## Mục lục
 

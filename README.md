@@ -58,10 +58,10 @@ Sinh viên thực hiện:
         - JSON_ListDiemThiSinh.php        Tập tin cấu hình API cho phép xem thông tin điểm chi tiết của thí sinh
     - 1612321_WebsiteTraCuu/      Tập tin chứa cấu hình website tra cứu điểm thi
        - CumThi/             Thư mục chứa các tập tin cấu hình liên quan đến cụm thi
-             - ajax_capnhat_cumthi.php        Tập tin cấu hình chức năng cập nhật cụm thi
-             - ajax_themmoi_cumthi.php        Tập tin cấu hình chức năng thêm mới cụm thi
-             - ajax_timkiem_cumthi.php        Tập tin cấu hình chức năng tìm kiếm cụm thi
-             - dbconnect.php                  Tập tin cấu hình kết nối đến CSDL
+            - ajax_capnhat_cumthi.php        Tập tin cấu hình chức năng cập nhật cụm thi
+            - ajax_themmoi_cumthi.php        Tập tin cấu hình chức năng thêm mới cụm thi
+            - ajax_timkiem_cumthi.php        Tập tin cấu hình chức năng tìm kiếm cụm thi
+            - dbconnect.php                  Tập tin cấu hình kết nối đến CSDL
        - index.php           Tập tin thực thi ứng dụng
        - them_capnhat_cumthi.php    Tập tin cấu hình thêm mới / cập nhật cụm thi 
        - tracuudiemthi.php          Tập tin cấu hình trang tra cứu điểm thi

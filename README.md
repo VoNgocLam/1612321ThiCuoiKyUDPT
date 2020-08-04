@@ -3,7 +3,7 @@
 <!-- vim-markdown-toc GFM -->
 
 * [Thành viên](#thành-viên)
-* [Chức năng](#chc-nng)
+* [Chức năng](#chức-năng)
 * [Terraform](#terraform)
 * [Pipelines](#pipelines)
     * [Staging](#staging)

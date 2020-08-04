@@ -175,7 +175,7 @@ Sinh viên thực hiện:
 
 ![7.png](https://2.pik.vn/2020df6e45ca-95b8-4b24-bd9d-a8f626b1c23e.png)
 
-## Xem danh sách các cụm thi
+## Tra cứu điểm thi
 #### Sử dụng Bootstarp, AJAX & JSON
 
 ![1.png](https://2.pik.vn/2020c19aabd3-49fb-4fd8-8dd7-eef1313bd329.png)

@@ -86,6 +86,8 @@ Sinh viên thực hiện:
   - http://localhost:8888/1612321/1612321_CumThi1/JSON_ListDiemThiSinh.php?q=Lâm&page=1
   - http://localhost:8888/1612321/1612321_CumThi1/JSON_ListDiemThiSinh.php?q=Lâm&page=1&page_size=2
 - Mô tả cách kiểm tra
+  - Kiểm tra khi thiếu đầu vào q
+  ![7.png](https://2.pik.vn/2020ca30ee17-8c29-46d9-a7f1-14c58f7c3a23.png)
   - Kiểm tra với đầu vào q là tên thí sinh
   ![Annotation 2020-08-04 085755.png](https://2.pik.vn/2020d0995e7b-8c1d-4905-a4d6-da26abba3476.png)
   - Kiểm tra với đầu vào q là số báo danh của thí sinh
@@ -96,3 +98,19 @@ Sinh viên thực hiện:
   ![4.png](https://2.pik.vn/2020c290c7b1-6279-4c00-aefe-e8d3e60e9332.png)
 
 ### API cho phép xem thông tin điểm chi tiết của từng thí sinh
+#### Sử dụng kỹ thuật RESTful API với PHP & JSON 
+- Link mô tả
+  - http://localhost:8888/1612321/1612321_CumThi1/JSON_GetDiemThiSinh.php
+  - http://localhost:8888/1612321/1612321_CumThi2/JSON_GetDiemThiSinh.php
+- Tham số đầu vào
+  - SBD: Từ khóa tìm kiếm (bắt buộc)
+- Link gọi API thực hiện
+  - http://localhost:8888/1612321/1612321_CumThi1/JSON_GetDiemThiSinh.php?SBD=01.0003
+  - http://localhost:8888/1612321/1612321_CumThi2/JSON_GetDiemThiSinh.php?SBD=02.0001
+- Mô tả cách kiểm tra
+  - Kiểm tra với đầu vào SBD ở cụm thi 1
+  ![5.png](https://2.pik.vn/20206745dd6f-1b75-4bc6-a36d-86fb53b90c94.png)
+  - Kiểm tra với đầu vào SBD ở cụm thi 2
+  ![6.png](https://2.pik.vn/20201ecb0b25-80f8-4ec7-bec3-81b791e0c018.png)
+
+

@@ -160,7 +160,7 @@ Sinh viên thực hiện:
 ![4.png](https://2.pik.vn/2020ec3d7db0-573e-4d70-8576-4c8f29260257.png)
 
 ### Thêm/cập nhật danh sách các cụm thi
-#### Sử dụng Bootstarp
+#### Sử dụng Bootstarp, AJAX
 ![1.png](https://2.pik.vn/2020ed83e71f-348f-4b0d-8fc6-95554405376d.png)
 
 ![2.png](https://2.pik.vn/2020e47ac81f-a8cd-47c1-b58d-a0c59e83065e.png)
@@ -174,3 +174,23 @@ Sinh viên thực hiện:
 ![6.png](https://2.pik.vn/2020c9d93da6-f429-41aa-b7f5-53fdd6f9d2e8.png)
 
 ![7.png](https://2.pik.vn/2020df6e45ca-95b8-4b24-bd9d-a8f626b1c23e.png)
+
+## Xem danh sách các cụm thi
+#### Sử dụng Bootstarp, AJAX & JSON
+
+![1.png](https://2.pik.vn/2020c19aabd3-49fb-4fd8-8dd7-eef1313bd329.png)
+
+![2.png](https://2.pik.vn/2020f342e160-3e21-4e37-a160-3c61257618d1.png)
+
+![3.png](https://2.pik.vn/2020b87aa8c4-c2cc-4683-937b-1e615f9ae756.png)
+
+![4.png](https://2.pik.vn/20203cc3592a-834b-4b20-8498-8ad1bd8a5357.png)
+
+![5.png](https://2.pik.vn/20205661c588-9410-4c4d-8f60-ce4a3b6b72ab.png)
+
+![6.png](https://2.pik.vn/202063c31a2f-80fe-4ae5-827b-d8e512d47590.png)
+
+![7.png](https://2.pik.vn/202083c775d2-e22d-4f1c-8ea9-d9eb8bf572bb.png)
+
+![8.png](https://2.pik.vn/2020baa38599-28c7-4e98-95f4-9097872590fd.png)
+

@@ -10,9 +10,9 @@ Sinh viên thực hiện:
 
 * [Chức năng](#chức-năng)
 * [Cấu trúc tập tin](#cấu-trúc-tập-tin)
-* [Pipelines](#pipelines)
-    * [Staging](#staging)
-    * [Production](#production)
+* [Kiểm thử API](#kiểm-thử-api)
+    * [API cho phép xem danh sách điểm của thí sinh](#api-cho-phép-xem-danh-sách-điểm-của-thí-sinh)
+    * [API cho phép xem thông tin điểm chi tiết của từng thí sinh](#api-cho-phép-xem-thông-tin-điểm-chi-tiết-của-từng-thí-sinh)
 * [Apache Airflow](#apache-airflow)
     * [DAGs](#dags)
     * [Phạm vi](#phm-vi)
@@ -67,4 +67,8 @@ Sinh viên thực hiện:
        - tracuudiemthi.php          Tập tin cấu hình trang tra cứu điểm thi
        - xemcumthi.php              Tập tin cấu hình trang xem/tìm kiếm cụm thi
        - TraCuuDiemThiDB.php        Tập tin cấu hình CSDL của website tra cứu điểm thi
-  
+## Kiểm thử API
+
+### API cho phép xem danh sách điểm của thí sinh
+
+### API cho phép xem thông tin điểm chi tiết của từng thí sinh

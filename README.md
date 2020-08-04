@@ -8,7 +8,6 @@ Sinh viên thực hiện:
 
 <!-- vim-markdown-toc GFM -->
 
-* [Thành viên](#sinh-viên-thực-hiện)
 * [Chức năng](#chức-năng)
 * [Terraform](#terraform)
 * [Pipelines](#pipelines)
@@ -22,7 +21,11 @@ Sinh viên thực hiện:
     * [Tasks](#tasks)
 
 ## Chức năng
-- [x] Apache Airflow + DAGs + Tasks
+- [x] Hệ thống 1: API quản lý điểm của các cụm thi (Ngôn ngữ lập trình php)
+    - [x] API cho phép xem danh sách điểm của các thí sinh theo phương thức GET
+    - [x] API cho phép xem thông tin điểm chi tiết của từng thí sinh theo phương thức GET
+       - [x] Tự động deploy lên staging khi merge/commit trên master
+       - [x] Manual trigger khi deploy lên production  
 - [x] Deploy GKE with Terraform
 - [x] Deploy Apache Airflow + DAGs + Tasks
     - [x] Quản lí version bằng tag

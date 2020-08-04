@@ -70,9 +70,9 @@ Sinh viên thực hiện:
 ## Kiểm thử API
 
 ### API cho phép xem danh sách điểm của thí sinh
-- Hệ sinh thái của Prometheus bao gồm nhiều components, một số là tính năng optional
-  - Prometheus server chính, làm nhiệm vụ scrapes và lưu time series data
-  - client libraries cho client dễ dàng kết nối API
+- Link mô tả
+  - http://localhost:8888/1612321/1612321_CumThi1/JSON_ListDiemThiSinh.php
+  - http://localhost:8888/1612321/1612321_CumThi2/JSON_ListDiemThiSinh.php
 - Link mô tả
  - http://localhost:8888/1612321/1612321_CumThi1/
  - http://localhost:8888/1612321/1612321_CumThi2/

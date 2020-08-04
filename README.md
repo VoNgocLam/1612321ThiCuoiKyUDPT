@@ -194,3 +194,6 @@ Sinh viên thực hiện:
 
 ![8.png](https://2.pik.vn/2020baa38599-28c7-4e98-95f4-9097872590fd.png)
 
+![9.png](https://2.pik.vn/20200f49eadb-797f-4175-b357-8e8f184cc437.png)
+
+![10.png](https://2.pik.vn/202010015f43-f1ed-474b-a712-fb0756b0e93b.png)

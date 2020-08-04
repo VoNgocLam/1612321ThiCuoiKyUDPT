@@ -108,6 +108,8 @@ Sinh viên thực hiện:
   - http://localhost:8888/1612321/1612321_CumThi1/JSON_GetDiemThiSinh.php?SBD=01.0003
   - http://localhost:8888/1612321/1612321_CumThi2/JSON_GetDiemThiSinh.php?SBD=02.0001
 - Mô tả cách kiểm tra
+  - Kiểm tra khi thiếu đầu vào SBD
+  ![8.png](https://2.pik.vn/20200fd5e9b4-71bd-4f5d-8f44-986ec9dc5e27.png)
   - Kiểm tra với đầu vào SBD ở cụm thi 1
   ![5.png](https://2.pik.vn/20206745dd6f-1b75-4bc6-a36d-86fb53b90c94.png)
   - Kiểm tra với đầu vào SBD ở cụm thi 2

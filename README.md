@@ -71,4 +71,9 @@ Sinh viên thực hiện:
 
 ### API cho phép xem danh sách điểm của thí sinh
 
+- Link mô tả:
+      - http://localhost:8888/1612321/1612321_CumThi1/
+      - http://localhost:8888/1612321/1612321_CumThi2/
+- Đầu vào:
+- Link gọi thực hiện bằng trình duyệt: 
 ### API cho phép xem thông tin điểm chi tiết của từng thí sinh

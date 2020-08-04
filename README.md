@@ -70,6 +70,7 @@ Sinh viên thực hiện:
 ## Kiểm thử API
 
 ### API cho phép xem danh sách điểm của thí sinh
+#### Sử dụng kỹ thuật RESTful API với PHP & JSON (sử dụng phân trang)
 - Link mô tả
   - http://localhost:8888/1612321/1612321_CumThi1/JSON_ListDiemThiSinh.php
   - http://localhost:8888/1612321/1612321_CumThi2/JSON_ListDiemThiSinh.php

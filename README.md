@@ -81,7 +81,7 @@ Sinh viên thực hiện:
   - http://localhost:8888/1612321/1612321_CumThi1/JSON_ListDiemThiSinh.php?q=Võ+Ngọc+Lâm
   - http://localhost:8888/1612321/1612321_CumThi1/JSON_ListDiemThiSinh.php?q=01.0003
   - http://localhost:8888/1612321/1612321_CumThi1/JSON_ListDiemThiSinh.php?q=Lâm&page=1
-  - http://localhost:8888/1612321/1612321_CumThi1/JSON_ListDiemThiSinh.php?q=Lâmm&page=1&page_size=2
+  - http://localhost:8888/1612321/1612321_CumThi1/JSON_ListDiemThiSinh.php?q=Lâm&page=1&page_size=2
   
 
 ### API cho phép xem thông tin điểm chi tiết của từng thí sinh

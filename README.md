@@ -45,7 +45,7 @@ Sinh viên thực hiện:
          - [x] Cho phép nhập từ khóa tìm kiếm, chọn cụm thi
          - [x] Hiển thị danh sách thông tin thí sinh và tổng điểm của thí sinh (bằng cách gọi API 1.1) 
 ## Cấu trúc tập tin
-- 1612321/        Thư mục gốc ứng dụng
+- 1612321/                   Thư mục gốc ứng dụng
     - 1612321_CumThi1       Tập tin chứa hệ thống API tra cứu điểm của cụm thi 1
         - CumThi1DB.sql         Tập tin cấu hình CSDL
         - dbconnect.inc         Tập tin cấu hình kết nối đến CSDL

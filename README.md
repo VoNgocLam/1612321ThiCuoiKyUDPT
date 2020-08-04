@@ -73,10 +73,12 @@ Sinh viên thực hiện:
 - Link mô tả
   - http://localhost:8888/1612321/1612321_CumThi1/JSON_ListDiemThiSinh.php
   - http://localhost:8888/1612321/1612321_CumThi2/JSON_ListDiemThiSinh.php
-- Link mô tả
- - http://localhost:8888/1612321/1612321_CumThi1/
- - http://localhost:8888/1612321/1612321_CumThi2/
-
-- Đầu vào:
-- Link gọi thực hiện bằng trình duyệt: 
+- Tham số đầu vào
+  - q: Từ khóa tìm kiếm (bắt buộc)
+  - page: Chỉ số trang (không bắt buộc)
+  - Page_size: Kích thước tối đa trả về (không bắt buộc)
+- Link gọi API thực hiện
+  - q: Từ khóa tìm kiếm (bắt buộc)
+  - page: Chỉ số trang (không bắt buộc)
+  - Page_size: Kích thước tối đa trả về (không bắt buộc)
 ### API cho phép xem thông tin điểm chi tiết của từng thí sinh

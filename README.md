@@ -29,7 +29,9 @@ Sinh viên thực hiện:
        - [x] page_size: Kích thước tối đa (không bắt buộc)
        - Đầu ra:
        - [x] Danh sách thí sinh và tổng điểm của thí sinh có tên hoặc số báo danh thỏa mãn từ khóa
-       - [x] Số lượng kết quả record thỏa mãn  
+       - [x] total_rows: Số lượng kết quả record thỏa mãn  
+       - [x] pageno: Chỉ số trang hiện tại
+       - [x] total_pages: Tổng số trang
        - [x] Chỉ trả ra tối đa {page_size}, tại trang thứ {page}
     - [x] 1.2. API cho phép xem thông tin điểm chi tiết của từng thí sinh theo phương thức GET
        - Đầu vào:

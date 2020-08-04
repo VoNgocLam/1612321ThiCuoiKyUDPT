@@ -23,6 +23,16 @@ Sinh viên thực hiện:
 ## Chức năng
 - [x] Hệ thống 1: API quản lý điểm của các cụm thi (Ngôn ngữ lập trình php)
     - [x] API cho phép xem danh sách điểm của các thí sinh theo phương thức GET
+       - Đầu vào:
+       - [x] q: Từ khóa tìm kiếm (bắt buộc)
+       - [x] page: Chỉ số trang (không bắt buộc)  
+       - [x] page_size: Kích thước tối đa (không bắt buộc)
+       - Đầu ra:
+       - [x] Danh sách thí sinh và tổng điểm của thí sinh có tên hoặc số báo danh thỏa mãn từ khóa
+       - [x] Số lượng kết quả record thỏa mãn  
+       - [x] Chỉ trả ra tối đa {page_size}, tại trang thứ {page}
+       
+
     - [x] API cho phép xem thông tin điểm chi tiết của từng thí sinh theo phương thức GET
        - [x] Tự động deploy lên staging khi merge/commit trên master
        - [x] Manual trigger khi deploy lên production  

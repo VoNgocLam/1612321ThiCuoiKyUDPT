@@ -83,6 +83,14 @@ Sinh viên thực hiện:
   - http://localhost:8888/1612321/1612321_CumThi1/JSON_ListDiemThiSinh.php?q=01.0003
   - http://localhost:8888/1612321/1612321_CumThi1/JSON_ListDiemThiSinh.php?q=Lâm&page=1
   - http://localhost:8888/1612321/1612321_CumThi1/JSON_ListDiemThiSinh.php?q=Lâm&page=1&page_size=2
-  
+- Mô tả cách kiểm tra
+  - Kiểm tra với đầu vào q là tên thí sinh
+  ![Annotation 2020-08-04 085755.png](https://2.pik.vn/2020d0995e7b-8c1d-4905-a4d6-da26abba3476.png)
+  - Kiểm tra với đầu vào q là số báo danh của thí sinh
+  ![2.png](https://2.pik.vn/20206f219e64-a9c7-4204-82e9-4ccc9c903ea8.png)
+  - Kiểm tra với đầu vào là q và page
+  ![3.png](https://2.pik.vn/202021176a34-eba7-4485-9171-f3390316ef0d.png)
+  - Kiểm tra với đâu vào là q, page và page_size
+  ![4.png](https://2.pik.vn/2020c290c7b1-6279-4c00-aefe-e8d3e60e9332.png)
 
 ### API cho phép xem thông tin điểm chi tiết của từng thí sinh

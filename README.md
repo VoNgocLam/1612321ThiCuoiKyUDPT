@@ -9,7 +9,7 @@ Sinh viên thực hiện:
 <!-- vim-markdown-toc GFM -->
 
 * [Chức năng](#chức-năng)
-* [Terraform](#terraform)
+* [Cấu trúc tập tin](#cấu-trúc-tập-tin)
 * [Pipelines](#pipelines)
     * [Staging](#staging)
     * [Production](#production)
@@ -44,3 +44,27 @@ Sinh viên thực hiện:
     - [x] Tra cứu điểm thí sinh theo từng cụm thi    
          - [x] Cho phép nhập từ khóa tìm kiếm, chọn cụm thi
          - [x] Hiển thị danh sách thông tin thí sinh và tổng điểm của thí sinh (bằng cách gọi API 1.1) 
+## Cấu trúc tập tin
+- 1612321/        Thư mục gốc ứng dụng
+    - 1612321_CumThi1       Tập tin chứa hệ thống API tra cứu điểm của cụm thi 1
+        - CumThi1DB.sql         Tập tin cấu hình CSDL
+        - dbconnect.inc         Tập tin cấu hình kết nối đến CSDL
+        - JSON_GetDiemThiSinh.php         Tập tin cấu hình API cho phép xem danh sách điểm của các thí sinh
+        - JSON_ListDiemThiSinh.php        Tập tin cấu hình API cho phép xem thông tin điểm chi tiết của thí sinh
+    - 1612321_CumThi2/      Tập tin chứa hệ thống API tra cứu điểm của cụm thi 2
+        - CumThi2DB.sql         Tập tin cấu hình CSDL
+        - dbconnect.inc         Tập tin cấu hình kết nối đến CSDL
+        - JSON_GetDiemThiSinh.php         Tập tin cấu hình API cho phép xem danh sách điểm của các thí sinh
+        - JSON_ListDiemThiSinh.php        Tập tin cấu hình API cho phép xem thông tin điểm chi tiết của thí sinh
+    - 1612321_WebsiteTraCuu/      Tập tin chứa cấu hình website tra cứu điểm thi
+       - CumThi/             Thư mục chứa các tập tin cấu hình liên quan đến cụm thi
+             - ajax_capnhat_cumthi.php        Tập tin cấu hình chức năng cập nhật cụm thi
+             - ajax_themmoi_cumthi.php        Tập tin cấu hình chức năng thêm mới cụm thi
+             - ajax_timkiem_cumthi.php        Tập tin cấu hình chức năng tìm kiếm cụm thi
+             - dbconnect.php                  Tập tin cấu hình kết nối đến CSDL
+       - index.php           Tập tin thực thi ứng dụng
+       - them_capnhat_cumthi.php    Tập tin cấu hình thêm mới / cập nhật cụm thi 
+       - tracuudiemthi.php          Tập tin cấu hình trang tra cứu điểm thi
+       - xemcumthi.php              Tập tin cấu hình trang xem/tìm kiếm cụm thi
+       - TraCuuDiemThiDB.php        Tập tin cấu hình CSDL của website tra cứu điểm thi
+  
